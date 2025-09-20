@@ -2,8 +2,10 @@
 
 ## Table of Contents (TOC)
 
--[Prerequisites](#prerequisites)
--[JavaScript Essentials (non-negotiable)](#javascript-essentials-non-negotiable)
+- [Prerequisites](#prerequisites)
+- [JavaScript Essentials (non-negotiable)](#javascript-essentials-non-negotiable)
+- [React Essentials](#react-essentials)
+
 
 ## Prerequisites
 
