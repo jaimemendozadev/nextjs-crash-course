@@ -5,6 +5,7 @@
 - [Prerequisites](#prerequisites)
 - [JavaScript Essentials (non-negotiable)](#javascript-essentials-non-negotiable)
 - [React Essentials](#react-essentials)
+- [Next.js Essentials](#nextjs-essentials)
 
 
 ## Prerequisites
@@ -34,6 +35,7 @@ I'm going to assume you have access to the following, have working knowledge, or
 
 
 [Back to TOC](#table-of-contents-toc)
+
 ---
 
 ## React Essentials
@@ -70,6 +72,7 @@ From the [React.js Docs](https://react.dev/):
 <br />
 
 [Back to TOC](#table-of-contents-toc)
+
 ---
 
 ## Next.js Essentials
@@ -88,7 +91,7 @@ From the [React.js Docs](https://react.dev/):
 
 [Back to TOC](#table-of-contents-toc)
 
-
+___
 
 
 
