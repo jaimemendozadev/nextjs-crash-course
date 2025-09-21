@@ -30,11 +30,10 @@ I'm going to assume you have access to the following, have working knowledge, or
 
 - Async/Promises/Fetch
 
+<br />
 
 
 [Back to TOC](#table-of-contents-toc)
-
-
 ---
 
 ## React Essentials
@@ -64,12 +63,23 @@ From the [React.js Docs](https://react.dev/):
  - Use of the Array map method `[].map`
 
 
+<br />
 
 [Back to TOC](#table-of-contents-toc)
-
 ---
 
+## Next.js Essentials
 
+- `client` vs. `server` components
+
+- Folder Based Routing
+  - page.ts
+  - layout.tx
+
+- Server Actions vs. API Routes
+  - [Next.js Docs on API Routes](https://nextjs.org/docs/app/guides/migrating/app-router-migration#api-routes)
+
+ 
 
 
 
