@@ -1,6 +1,10 @@
 import { Banner } from "@/components/banner";
+import { generateFakeData } from "@/utils/_mockData";
 
 export default function Home() {
+
+  generateFakeData();
+  
   return (
     <div>
       <Banner />
