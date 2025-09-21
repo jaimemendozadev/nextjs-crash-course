@@ -1,11 +1,18 @@
 # ⚡️ [Next.js Crash Course](https://github.com/jaimemendozadev/nextjs-crash-course)
 
+<br />
+
 ## Table of Contents (TOC)
 
 - [Prerequisites](#prerequisites)
 - [JavaScript Essentials (non-negotiable)](#javascript-essentials-non-negotiable)
 - [React Essentials](#react-essentials)
 - [Next.js Essentials](#nextjs-essentials)
+
+
+<br />
+
+---
 
 
 ## Prerequisites
@@ -17,6 +24,17 @@ I'm going to assume you have access to the following, have working knowledge, or
 - GitHub Account
 - Code Editor of Your Choice (preferably [VS Code](https://code.visualstudio.com/) because it plays nicely with Next.js/TypeScript and autocompletes a lot of code for you.)
 
+<br />
+
+**IMPORTANT**: We will not be discussing how to implement [TypeScript (TS)](https://www.typescriptlang.org/) in this crash course as that would lead to cognitive overhead for everyone involved 🤯. **UNLESS THERE'S UNANIMOUS CONSENT** to use TS in the project, avoid getting TS errors in the codebase by using the all important escape by adding the following line of code at the top of each `.ts` or `.tsx` file: `// @ts-nocheck`
+
+
+<br />
+
+
+[Back to TOC](#table-of-contents-toc)
+
+---
 
 ## JavaScript Essentials (non-negotiable)
 
