@@ -56,7 +56,7 @@ From the [React.js Docs](https://react.dev/):
 
 - Form Events
   - `onChange`
-  - `onClick`
+  - `onSubmit`
 
 - Closures in React
   - State updates & stale values. (Show that `useState` updater function captures and updates local state: `setCount(c => c+1)`.)
