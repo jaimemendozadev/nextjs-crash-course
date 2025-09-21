@@ -21,6 +21,5 @@ for (let index = 0; index < todos.length; index += 1) {
   
 }
 
-console.log("payload is ", payload);
-console.log("\n");
+return payload;
 }
