@@ -26,7 +26,7 @@ I'm going to assume you have access to the following, have working knowledge, or
 
 <br />
 
-**IMPORTANT**: We will not be discussing how to implement [TypeScript (TS)](https://www.typescriptlang.org/) in this crash course as that would lead to cognitive overhead for everyone involved 🤯. **UNLESS THERE'S UNANIMOUS CONSENT** to use TS in the project, avoid getting TS errors in the codebase by using the all important escape by adding the following line of code at the top of each `.ts` or `.tsx` file: `// @ts-nocheck`
+**IMPORTANT**: We will not be discussing how to implement [TypeScript (TS)](https://www.typescriptlang.org/) in this crash course as that would lead to cognitive overhead for everyone involved 🤯. **UNLESS THERE'S UNANIMOUS CONSENT** to use TS in the project, avoid getting TS errors in the codebase by using the all important escape hatch by adding the following line of code at the top of each `.ts` or `.tsx` file: `// @ts-nocheck`
 
 
 <br />
