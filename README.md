@@ -47,6 +47,7 @@ I'm going to assume you have access to the following, have working knowledge, or
 - Arrow Functions
 
 - Objects `{}` and Arrays `[]`
+  - [Array Instance Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) (e.g. `.pop`, `.push`, `.map`, `.length`)
 
 - Async/Promises/Fetch
 
@@ -70,8 +71,8 @@ From the [React.js Docs](https://react.dev/):
   - [From React.js Docs: Importing/Exporting Components](https://react.dev/learn/importing-and-exporting-components)
 
 - Hooks
-  - `useState`
-  - `useEffect`
+  - `useState`: [see React.js Docs entry](https://react.dev/reference/react/useState)
+  - `useEffect`: [see React.js Docs entry](https://react.dev/reference/react/useEffect)
 
 - Form Events
   - `onChange`
