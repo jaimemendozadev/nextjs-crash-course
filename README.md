@@ -15,6 +15,7 @@ I'm going to assume you have access to the following, have working knowledge, or
 - Node.js (installed locally on your computer)
 - Git
 - GitHub Account
+- Code Editor of Your Choice (preferably [VS Code](https://code.visualstudio.com/) because it plays nicely with Next.js/TypeScript and autocompletes a lot of code for you.)
 
 
 ## JavaScript Essentials (non-negotiable)
