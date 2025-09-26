@@ -1,16 +1,35 @@
+'use client';
+import {useState, useEffect} from 'react';
 import { Banner } from "@/components/banner";
 import { generateFakeData } from "@/utils/_mockData";
 
 export default function Home() {
 
-  generateFakeData();
+
+  const [currentTodo, setTodo] = useState("First todo");
+
+
+
+  console.log("currentTodo in component ", currentTodo);
+  console.log('\n');
+
+  const handleChange = (evt) => {
+    console.log("evt.target.value ", evt.target.value);
+    setTodo(evt.target.value);
+  }
+
+
   
   return (
     <div>
-      <Banner />
+      <form onSubmit={evt => evt.preventDefault()}>
+        <input type="text" value={currentTodo} onChange={handleChange} />
+      </form>
     </div>
   );
 }
+
+
 
 
 /*
