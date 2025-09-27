@@ -1,9 +1,10 @@
+'use server';
 // @ts-nocheck
 
 /****************************************** 
  *  GET API Callback
  ****************************************** 
-
+*/
 
 import { NextResponse } from 'next/server';
 
@@ -13,7 +14,7 @@ export async function GET() {
   return NextResponse.json(data, { status: 200 });
 }
 
-*/
+
 
 
 
@@ -61,3 +62,6 @@ export async function DELETE(
 
 
 // Next.js API Routes Docs: https://nextjs.org/docs/app/guides/migrating/app-router-migration#api-routes
+
+
+*/
